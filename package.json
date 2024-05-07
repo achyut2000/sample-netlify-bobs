@@ -1,0 +1,14 @@
+{
+  "name": "sample-netlify-bobs",
+  "version": "1.0.0",
+  "description": "This is a sample hands on with netlify blobs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "medehalachyut@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "@netlify/blobs": "7.3.0"
+  }
+}

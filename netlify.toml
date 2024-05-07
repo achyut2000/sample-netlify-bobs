@@ -1,0 +1,6 @@
+[build]
+  command = ""  # No build command needed
+
+[functions]
+  # Specify function directory relative to project root
+  build = "netlify/functions"
